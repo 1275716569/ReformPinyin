@@ -1,0 +1,5 @@
+E20261121 15:12:49.081237 16024 mapped_file.cc:78] attempt to open non-existent file 'C:\Users\12757\AppData\Local\Temp\tmp5zteta31\rime\lua/lunar.db'.
+E20261121 15:12:49.081412 16024 reverse_lookup_dictionary.cc:39] Error opening reversedb 'C:\Users\12757\AppData\Local\Temp\tmp5zteta31\rime\lua/lunar.db'.
+E20261121 15:12:49.254343 16024 mapped_file.cc:78] attempt to open non-existent file 'C:\Users\12757\AppData\Local\Temp\tmp5zteta31\rime\lua/lunar.db'.
+E20261121 15:12:49.254424 16024 reverse_lookup_dictionary.cc:39] Error opening reversedb 'C:\Users\12757\AppData\Local\Temp\tmp5zteta31\rime\lua/lunar.db'.
+candidate, commit, tail, reset, sample weighting and idle update checks passed

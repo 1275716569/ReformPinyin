@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "train": 300447,
+    "test": 7733,
+    "val": 50586
+  },
+  "statistics": {
+    "in_pool": 358766,
+    "tail": 22753,
+    "absent": 1043,
+    "ambiguous_spelling": 4564,
+    "missing_lexicon": 785,
+    "progress": 38
+  }
+}

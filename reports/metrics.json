@@ -1,0 +1,311 @@
+{
+  "32": {
+    "groups": {
+      "all": {
+        "n": 8275,
+        "pool": 7733,
+        "rime": 4973,
+        "model": 5146,
+        "empty": 4192,
+        "fallback": 0
+      },
+      "initial": {
+        "n": 2840,
+        "pool": 2364,
+        "rime": 786,
+        "model": 1128,
+        "empty": 636,
+        "fallback": 0
+      },
+      "tatoeba": {
+        "n": 1823,
+        "pool": 1713,
+        "rime": 1122,
+        "model": 1157,
+        "empty": 934,
+        "fallback": 0
+      },
+      "length2": {
+        "n": 5780,
+        "pool": 5381,
+        "rime": 3411,
+        "model": 3460,
+        "empty": 3103,
+        "fallback": 0
+      },
+      "no_context": {
+        "n": 308,
+        "pool": 300,
+        "rime": 223,
+        "model": 234,
+        "empty": 234,
+        "fallback": 0
+      },
+      "full": {
+        "n": 3077,
+        "pool": 3068,
+        "rime": 2683,
+        "model": 2577,
+        "empty": 2268,
+        "fallback": 0
+      },
+      "mixed": {
+        "n": 2358,
+        "pool": 2301,
+        "rime": 1504,
+        "model": 1441,
+        "empty": 1288,
+        "fallback": 0
+      },
+      "length1": {
+        "n": 1752,
+        "pool": 1609,
+        "rime": 998,
+        "model": 1133,
+        "empty": 536,
+        "fallback": 0
+      },
+      "with_context": {
+        "n": 7967,
+        "pool": 7433,
+        "rime": 4750,
+        "model": 4912,
+        "empty": 3958,
+        "fallback": 0
+      },
+      "length4": {
+        "n": 359,
+        "pool": 359,
+        "rime": 315,
+        "model": 310,
+        "empty": 304,
+        "fallback": 0
+      },
+      "length3": {
+        "n": 384,
+        "pool": 384,
+        "rime": 249,
+        "model": 243,
+        "empty": 249,
+        "fallback": 0
+      },
+      "wiki": {
+        "n": 6452,
+        "pool": 6020,
+        "rime": 3851,
+        "model": 3989,
+        "empty": 3258,
+        "fallback": 0
+      }
+    },
+    "p50_ms": 1.6419999992649537,
+    "p95_ms": 2.6606700015690863,
+    "p99_ms": 3.1670139980269627
+  },
+  "64": {
+    "groups": {
+      "all": {
+        "n": 8275,
+        "pool": 7733,
+        "rime": 4973,
+        "model": 5151,
+        "empty": 4192,
+        "fallback": 0
+      },
+      "initial": {
+        "n": 2840,
+        "pool": 2364,
+        "rime": 786,
+        "model": 1129,
+        "empty": 636,
+        "fallback": 0
+      },
+      "tatoeba": {
+        "n": 1823,
+        "pool": 1713,
+        "rime": 1122,
+        "model": 1157,
+        "empty": 934,
+        "fallback": 0
+      },
+      "length2": {
+        "n": 5780,
+        "pool": 5381,
+        "rime": 3411,
+        "model": 3462,
+        "empty": 3103,
+        "fallback": 0
+      },
+      "no_context": {
+        "n": 308,
+        "pool": 300,
+        "rime": 223,
+        "model": 234,
+        "empty": 234,
+        "fallback": 0
+      },
+      "full": {
+        "n": 3077,
+        "pool": 3068,
+        "rime": 2683,
+        "model": 2572,
+        "empty": 2268,
+        "fallback": 0
+      },
+      "mixed": {
+        "n": 2358,
+        "pool": 2301,
+        "rime": 1504,
+        "model": 1450,
+        "empty": 1288,
+        "fallback": 0
+      },
+      "length1": {
+        "n": 1752,
+        "pool": 1609,
+        "rime": 998,
+        "model": 1121,
+        "empty": 536,
+        "fallback": 0
+      },
+      "with_context": {
+        "n": 7967,
+        "pool": 7433,
+        "rime": 4750,
+        "model": 4917,
+        "empty": 3958,
+        "fallback": 0
+      },
+      "length4": {
+        "n": 359,
+        "pool": 359,
+        "rime": 315,
+        "model": 318,
+        "empty": 304,
+        "fallback": 0
+      },
+      "length3": {
+        "n": 384,
+        "pool": 384,
+        "rime": 249,
+        "model": 250,
+        "empty": 249,
+        "fallback": 0
+      },
+      "wiki": {
+        "n": 6452,
+        "pool": 6020,
+        "rime": 3851,
+        "model": 3994,
+        "empty": 3258,
+        "fallback": 0
+      }
+    },
+    "p50_ms": 2.7162000005773734,
+    "p95_ms": 4.329739999593583,
+    "p99_ms": 5.100937999159214
+  },
+  "128": {
+    "groups": {
+      "all": {
+        "n": 8275,
+        "pool": 7733,
+        "rime": 4973,
+        "model": 5124,
+        "empty": 4192,
+        "fallback": 0
+      },
+      "initial": {
+        "n": 2840,
+        "pool": 2364,
+        "rime": 786,
+        "model": 1107,
+        "empty": 636,
+        "fallback": 0
+      },
+      "tatoeba": {
+        "n": 1823,
+        "pool": 1713,
+        "rime": 1122,
+        "model": 1157,
+        "empty": 934,
+        "fallback": 0
+      },
+      "length2": {
+        "n": 5780,
+        "pool": 5381,
+        "rime": 3411,
+        "model": 3460,
+        "empty": 3103,
+        "fallback": 0
+      },
+      "no_context": {
+        "n": 308,
+        "pool": 300,
+        "rime": 223,
+        "model": 234,
+        "empty": 234,
+        "fallback": 0
+      },
+      "full": {
+        "n": 3077,
+        "pool": 3068,
+        "rime": 2683,
+        "model": 2554,
+        "empty": 2268,
+        "fallback": 0
+      },
+      "mixed": {
+        "n": 2358,
+        "pool": 2301,
+        "rime": 1504,
+        "model": 1463,
+        "empty": 1288,
+        "fallback": 0
+      },
+      "length1": {
+        "n": 1752,
+        "pool": 1609,
+        "rime": 998,
+        "model": 1100,
+        "empty": 536,
+        "fallback": 0
+      },
+      "with_context": {
+        "n": 7967,
+        "pool": 7433,
+        "rime": 4750,
+        "model": 4890,
+        "empty": 3958,
+        "fallback": 0
+      },
+      "length4": {
+        "n": 359,
+        "pool": 359,
+        "rime": 315,
+        "model": 310,
+        "empty": 304,
+        "fallback": 0
+      },
+      "length3": {
+        "n": 384,
+        "pool": 384,
+        "rime": 249,
+        "model": 254,
+        "empty": 249,
+        "fallback": 0
+      },
+      "wiki": {
+        "n": 6452,
+        "pool": 6020,
+        "rime": 3851,
+        "model": 3967,
+        "empty": 3258,
+        "fallback": 0
+      }
+    },
+    "p50_ms": 3.0605000029026996,
+    "p95_ms": 7.193849999384838,
+    "p99_ms": 8.086478001205252
+  }
+}

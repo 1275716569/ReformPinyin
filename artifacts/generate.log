@@ -1,0 +1,46 @@
+E20261121 14:22:08.667217 11768 mapped_file.cc:78] attempt to open non-existent file 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+E20261121 14:22:08.667328 11768 reverse_lookup_dictionary.cc:39] Error opening reversedb 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+E20261121 14:22:08.820876 11768 mapped_file.cc:78] attempt to open non-existent file 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+E20261121 14:22:08.820946 11768 reverse_lookup_dictionary.cc:39] Error opening reversedb 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\12757\AppData\Local\Temp\jieba.cache
+Loading model cost 0.702 seconds.
+Prefix dict has been built successfully.
+{'train': 9487, 'test': 41, 'val': 77}
+{'train': 18644, 'test': 45, 'val': 77}
+{'train': 27690, 'test': 124, 'val': 77}
+{'train': 35746, 'test': 1274, 'val': 233}
+{'train': 40036, 'test': 6379, 'val': 268}
+{'train': 49407, 'test': 6396, 'val': 319}
+{'train': 58393, 'test': 6449, 'val': 344}
+{'train': 67930, 'test': 6449, 'val': 344}
+{'train': 77233, 'test': 6525, 'val': 446}
+{'train': 85906, 'test': 6555, 'val': 543}
+{'train': 95293, 'test': 6593, 'val': 622}
+{'train': 104736, 'test': 6679, 'val': 644}
+{'train': 113807, 'test': 6679, 'val': 710}
+{'train': 123155, 'test': 6712, 'val': 772}
+{'train': 132506, 'test': 6712, 'val': 787}
+{'train': 141765, 'test': 6740, 'val': 835}
+{'train': 151353, 'test': 6764, 'val': 859}
+{'train': 160421, 'test': 6852, 'val': 878}
+{'train': 169331, 'test': 6922, 'val': 884}
+{'train': 178115, 'test': 6932, 'val': 884}
+{'train': 183246, 'test': 6985, 'val': 4868}
+{'train': 185365, 'test': 7041, 'val': 12191}
+{'train': 187452, 'test': 7100, 'val': 19104}
+{'train': 191504, 'test': 7215, 'val': 24167}
+{'train': 200785, 'test': 7287, 'val': 24220}
+{'train': 209725, 'test': 7378, 'val': 24294}
+{'train': 218800, 'test': 7451, 'val': 24346}
+{'train': 227908, 'test': 7484, 'val': 24401}
+{'train': 237488, 'test': 7503, 'val': 24412}
+{'train': 246564, 'test': 7535, 'val': 24412}
+{'train': 256022, 'test': 7558, 'val': 24438}
+{'train': 265043, 'test': 7558, 'val': 24883}
+{'train': 265518, 'test': 7610, 'val': 33560}
+{'train': 266653, 'test': 7620, 'val': 40558}
+{'train': 267976, 'test': 7652, 'val': 48276}
+{'train': 275055, 'test': 7673, 'val': 50554}
+{'train': 283866, 'test': 7673, 'val': 50554}
+{'train': 293485, 'test': 7701, 'val': 50586}

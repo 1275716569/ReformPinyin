@@ -1,0 +1,81 @@
+233 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.10
+234 INFO: Python: 3.12.8
+269 INFO: Platform: Windows-11-10.0.26300-SP0
+270 INFO: Python environment: C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\.venv
+270 INFO: wrote artifacts\ReformHost.spec
+278 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨',
+ 'C:\\Users\\12757\\AppData\\Local\\Programs\\Python\\Python312\\python312.zip',
+ 'C:\\Users\\12757\\AppData\\Local\\Programs\\Python\\Python312\\DLLs',
+ 'C:\\Users\\12757\\AppData\\Local\\Programs\\Python\\Python312\\Lib',
+ 'C:\\Users\\12757\\AppData\\Local\\Programs\\Python\\Python312',
+ 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv',
+ 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages',
+ 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\src']
+1542 INFO: checking Analysis
+1565 INFO: Building because excludes changed
+1565 INFO: Looking for Python shared library...
+1565 INFO: Using Python shared library: C:\Users\12757\AppData\Local\Programs\Python\Python312\python312.dll
+1565 INFO: Running Analysis Analysis-00.toc
+1565 INFO: Target bytecode optimization level: 0
+1565 INFO: Initializing module dependency graph...
+1569 INFO: Initializing module graph hook caches...
+1583 INFO: Analyzing modules for base_library.zip ...
+3326 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+3414 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+5109 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+5390 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+6993 INFO: Caching module dependency graph...
+7034 INFO: Analyzing C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\src\service.py
+7057 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+7105 INFO: Processing standard module hook 'hook-pinyin.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+7107 WARNING: collect_data_files - skipping data collection for module 'pinyin' as it is not a package.
+7108 INFO: Processing standard module hook 'hook-sqlite3.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+7694 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+8053 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+8057 INFO: SetuptoolsInfo: initializing cached setuptools info...
+12563 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+12748 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13660 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13794 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+13953 INFO: Processing standard module hook 'hook-webbrowser.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+15129 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+16008 INFO: Processing standard module hook 'hook-onnxruntime.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+16113 INFO: Processing pre-safe-import-module hook 'hook-tensorflow.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+16123 INFO: Processing module hooks (post-graph stage)...
+16192 INFO: Performing binary vs. data reclassification (5 entries)
+16198 INFO: Looking for ctypes DLLs
+16243 INFO: Analyzing run-time hooks ...
+16246 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+16250 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+16253 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+16267 INFO: Creating base_library.zip...
+16291 INFO: Looking for dynamic libraries
+17169 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\12757\\Desktop\\Desktop\\project\\�ĸ����뷨\\.venv\\Lib\\site-packages\\numpy.libs']
+17169 INFO: Extra DLL search directories (PATH): []
+17894 INFO: Warnings written to C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\freeze\ReformHost\warn-ReformHost.txt
+17945 INFO: Graph cross-reference written to C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\freeze\ReformHost\xref-ReformHost.html
+17973 INFO: checking PYZ
+17994 INFO: Building because C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\src\engine.py changed
+17994 INFO: Building PYZ (ZlibArchive) C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\freeze\ReformHost\PYZ-00.pyz
+18616 INFO: Building PYZ (ZlibArchive) C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\freeze\ReformHost\PYZ-00.pyz completed successfully.
+18628 INFO: checking PKG
+18642 INFO: Building because C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\freeze\ReformHost\PYZ-00.pyz changed
+18642 INFO: Building PKG (CArchive) ReformHost.pkg
+18685 INFO: Building PKG (CArchive) ReformHost.pkg completed successfully.
+18687 INFO: Bootloader C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+18687 INFO: checking EXE
+18704 INFO: Rebuilding EXE-00.toc because pkg is more recent
+18704 INFO: Building EXE from EXE-00.toc
+18705 INFO: Copying bootloader EXE to C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\freeze\ReformHost\ReformHost.exe
+18771 INFO: Copying icon to EXE
+18837 INFO: Copying 0 resources to EXE
+18837 INFO: Embedding manifest in EXE
+18900 INFO: Appending PKG archive to EXE
+18992 INFO: Fixing EXE headers
+19357 INFO: Building EXE from EXE-00.toc completed successfully.
+19360 INFO: checking COLLECT
+19380 INFO: Removing dir C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\bundle\ReformHost
+19595 INFO: Building COLLECT COLLECT-00.toc
+19999 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+20003 INFO: Build complete! The results are available in: C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\artifacts\bundle

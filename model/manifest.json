@@ -1,0 +1,9 @@
+{
+  "parameters": 2969666,
+  "training_device": "cuda",
+  "train_items": 300447,
+  "val_items": 50586,
+  "best_initial_validation": 0.4362182116488925,
+  "sha256": "fc3123322a3ee3b2d760aadb7a653fafbd771f6a2785de823cb68d12f3b70a81",
+  "window": 32
+}

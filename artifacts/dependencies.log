@@ -1,0 +1,76 @@
+Collecting numpy
+  Downloading numpy-2.5.5-cp312-cp312-win_amd64.whl.metadata (6.6 kB)
+Collecting jieba
+  Downloading jieba-0.42.1.tar.gz (19.2 MB)
+     --------------------------------------- 19.2/19.2 MB 70.0 kB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting opencc-python-reimplemented
+  Downloading opencc_python_reimplemented-0.1.7-py2.py3-none-any.whl.metadata (4.6 kB)
+Collecting pypinyin
+  Downloading pypinyin-0.55.0-py2.py3-none-any.whl.metadata (12 kB)
+Collecting onnx
+  Downloading onnx-1.23.2-cp312-abi3-win_amd64.whl.metadata (8.7 kB)
+Collecting onnxruntime
+  Downloading onnxruntime-1.32.0-cp312-cp312-win_amd64.whl.metadata (6.1 kB)
+Collecting mwparserfromhell
+  Downloading mwparserfromhell-0.7.2-cp312-cp312-win_amd64.whl.metadata (10 kB)
+Collecting pyinstaller
+  Downloading pyinstaller-6.22.3-py3-none-win_amd64.whl.metadata (8.5 kB)
+Collecting PyYAML
+  Downloading pyyaml-6.0.4-cp312-cp312-win_amd64.whl.metadata (2.4 kB)
+Collecting protobuf>=6.31.1 (from onnx)
+  Using cached protobuf-7.36.2-cp310-abi3-win_amd64.whl.metadata (595 bytes)
+Collecting typing_extensions>=4.7.1 (from onnx)
+  Using cached typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting ml_dtypes>=0.5.4 (from onnx)
+  Downloading ml_dtypes-0.7.0-cp312-cp312-win_amd64.whl.metadata (11 kB)
+Collecting flatbuffers (from onnxruntime)
+  Downloading flatbuffers-25.12.19-py2.py3-none-any.whl.metadata (1.0 kB)
+Collecting packaging (from onnxruntime)
+  Using cached packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting altgraph (from pyinstaller)
+  Downloading altgraph-0.17.5-py2.py3-none-any.whl.metadata (7.5 kB)
+Collecting pefile>=2022.5.30 (from pyinstaller)
+  Using cached pefile-2024.8.26-py3-none-any.whl.metadata (1.4 kB)
+Collecting pyinstaller-hooks-contrib>=2026.7 (from pyinstaller)
+  Downloading pyinstaller_hooks_contrib-2026.10-py3-none-any.whl.metadata (16 kB)
+Collecting pywin32-ctypes>=0.2.1 (from pyinstaller)
+  Downloading pywin32_ctypes-0.2.3-py3-none-any.whl.metadata (3.9 kB)
+Collecting setuptools>=42.0.0 (from pyinstaller)
+  Using cached setuptools-84.2.1-py3-none-any.whl.metadata (6.6 kB)
+Downloading numpy-2.5.5-cp312-cp312-win_amd64.whl (12.6 MB)
+   ---------------------------------------- 12.6/12.6 MB 65.7 kB/s eta 0:00:00
+Downloading opencc_python_reimplemented-0.1.7-py2.py3-none-any.whl (481 kB)
+Downloading pypinyin-0.55.0-py2.py3-none-any.whl (840 kB)
+   --------------------------------------- 840.2/840.2 kB 66.1 kB/s eta 0:00:00
+Downloading onnx-1.23.2-cp312-abi3-win_amd64.whl (7.9 MB)
+   ---------------------------------------- 7.9/7.9 MB 56.2 kB/s eta 0:00:00
+Downloading onnxruntime-1.32.0-cp312-cp312-win_amd64.whl (16.7 MB)
+   ---------------------------------------- 16.7/16.7 MB 107.4 kB/s eta 0:00:00
+Downloading mwparserfromhell-0.7.2-cp312-cp312-win_amd64.whl (156 kB)
+Downloading pyinstaller-6.22.3-py3-none-win_amd64.whl (1.5 MB)
+   ---------------------------------------- 1.5/1.5 MB 105.4 kB/s eta 0:00:00
+Downloading pyyaml-6.0.4-cp312-cp312-win_amd64.whl (154 kB)
+Downloading ml_dtypes-0.7.0-cp312-cp312-win_amd64.whl (463 kB)
+Using cached packaging-26.3-py3-none-any.whl (129 kB)
+Using cached pefile-2024.8.26-py3-none-any.whl (74 kB)
+Using cached protobuf-7.36.2-cp310-abi3-win_amd64.whl (456 kB)
+Downloading pyinstaller_hooks_contrib-2026.10-py3-none-any.whl (463 kB)
+Downloading pywin32_ctypes-0.2.3-py3-none-any.whl (30 kB)
+Using cached setuptools-84.2.1-py3-none-any.whl (876 kB)
+Using cached typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Downloading altgraph-0.17.5-py2.py3-none-any.whl (21 kB)
+Downloading flatbuffers-25.12.19-py2.py3-none-any.whl (26 kB)
+Building wheels for collected packages: jieba
+  Building wheel for jieba (pyproject.toml): started
+  Building wheel for jieba (pyproject.toml): finished with status 'done'
+  Created wheel for jieba: filename=jieba-0.42.1-py3-none-any.whl size=19314527 sha256=3c0d87c9e0794f5afac410ebc5ccd239c460cd8bfa8bf5addb2a9c65544a5998
+  Stored in directory: c:\users\12757\appdata\local\pip\cache\wheels\08\a1\a3\5c8ac52cc2f5782ffffc34c95c57c8e5ecb3063dc69541ee7c
+Successfully built jieba
+Installing collected packages: opencc-python-reimplemented, jieba, flatbuffers, altgraph, typing_extensions, setuptools, PyYAML, pywin32-ctypes, pypinyin, protobuf, pefile, packaging, numpy, mwparserfromhell, pyinstaller-hooks-contrib, onnxruntime, ml_dtypes, pyinstaller, onnx
+Successfully installed PyYAML-6.0.4 altgraph-0.17.5 flatbuffers-25.12.19 jieba-0.42.1 ml_dtypes-0.7.0 mwparserfromhell-0.7.2 numpy-2.5.5 onnx-1.23.2 onnxruntime-1.32.0 opencc-python-reimplemented-0.1.7 packaging-26.3 pefile-2024.8.26 protobuf-7.36.2 pyinstaller-6.22.3 pyinstaller-hooks-contrib-2026.10 pypinyin-0.55.0 pywin32-ctypes-0.2.3 setuptools-84.2.1 typing_extensions-4.16.0

@@ -1,0 +1,9 @@
+E20261121 14:15:24.695258  7908 mapped_file.cc:78] attempt to open non-existent file 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+E20261121 14:15:24.695342  7908 reverse_lookup_dictionary.cc:39] Error opening reversedb 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+E20261121 14:15:24.866292  7908 mapped_file.cc:78] attempt to open non-existent file 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+E20261121 14:15:24.866376  7908 reverse_lookup_dictionary.cc:39] Error opening reversedb 'C:\Users\12757\Desktop\Desktop\project\改革输入法\artifacts\replay\lua/lunar.db'.
+Building prefix dict from the default dictionary ...
+Dumping model to file cache C:\Users\12757\AppData\Local\Temp\jieba.cache
+Loading model cost 0.657 seconds.
+Prefix dict has been built successfully.
+{'train': 8424, 'test': 488, 'val': 417}

@@ -1,0 +1,8 @@
+device cuda sizes {'train': 300447, 'val': 50586}
+epoch 1 validation initial 0.43505605687722176
+epoch 2 validation initial 0.4362182116488925
+epoch 3 validation initial 0.4217938200710965
+C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\src\train.py:144: DeprecationWarning: You are using the legacy TorchScript-based ONNX export. Starting in PyTorch 2.9, the new torch.export-based ONNX exporter has become the default. Learn more about the new export logic: https://docs.pytorch.org/docs/stable/onnx_export.html. For exporting control flow: https://pytorch.org/tutorials/beginner/onnx/export_control_flow_model_to_onnx_tutorial.html
+  torch.onnx.export(net,(x,w),out/"ranker.onnx",input_names=["context","words"],output_names=["scores"],
+C:\Users\12757\Desktop\Desktop\project\�ĸ����뷨\.venv\Lib\site-packages\torch\onnx\_internal\torchscript_exporter\symbolic_opset11.py:954: UserWarning: Exporting aten::index operator of advanced indexing in opset 17 is achieved by combination of multiple ONNX operators, including Reshape, Transpose, Concat, and Gather. If indices include negative values, the exported graph will produce incorrect results.
+  return opset9.index(g, self, index)
